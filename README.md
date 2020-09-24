@@ -3,6 +3,7 @@
 > File upload component for React!
 
 [![NPM](https://img.shields.io/npm/v/cappys-react-file-upload-progress.svg)](https://www.npmjs.com/package/cappys-react-file-upload-progress)
+[![NPM Downloads](https://img.shields.io/npm/dt/cappys-react-file-upload-progress.svg)](https://npmcharts.com/compare/cappys-react-file-upload-progress?interval=1)
 
 ## Example
 
