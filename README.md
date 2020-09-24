@@ -2,7 +2,7 @@
 
 > File upload component for React!
 
-[![NPM](https://img.shields.io/npm/v/react-file-upload-progress.svg)](https://www.npmjs.com/package/cappys-react-file-upload-progress) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/cappys-react-file-upload-progress.svg)](https://www.npmjs.com/package/cappys-react-file-upload-progress)
 
 ## Example
 
@@ -77,6 +77,8 @@ export default App
 
 - [ ] Add completed event
 - [ ] Make transitions smoother
+- [ ] Write unit test
+- [ ] Add coverage
 
 ## License
 
